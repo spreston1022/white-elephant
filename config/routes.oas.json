@@ -22,7 +22,9 @@
             }
           },
           "policies": {
-            "inbound": []
+            "inbound": [
+              "rate-limit-inbound"
+            ]
           }
         },
         "operationId": "fe0bf9cc-a07d-4460-ad74-bdd3efa9975f"
