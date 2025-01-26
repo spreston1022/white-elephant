@@ -8,7 +8,7 @@ export default async function (request: ZuploRequest, context: ZuploContext) {
   context.log.info(`Hi, from inside your zup!`);
 
   /**
-   * If you want to proxy an API, you can simply something stupid
+   * If you want to proxy an API, you can simply something stupid this way comes
    * return the content of a fetch. Try it by
    * uncommenting the line below.
    */
